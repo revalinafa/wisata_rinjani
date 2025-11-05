@@ -22,38 +22,29 @@ NIM: **H1D023011**
 
 ---
 
-## 📱 UI Showcase
+## 📱 Homepage
 
 <img width="825" height="1089" alt="Screenshot 2025-11-05 145203" src="https://github.com/user-attachments/assets/81e392d1-2f5f-4afe-9982-21e1440a2109" />
 
+#### 📍 Sidebar
+<img width="825" height="1089" alt="Screenshot 2025-11-05 151537" src="https://github.com/user-attachments/assets/3de9e791-af3e-4adc-8ca0-c9d796ba7c84" />
 
-### 🧵 **Mockup Screenshot Showcase**  
-*(Tambahkan screenshot dengan frame mockup HP di setiap section)*
-
-#### 📍 Home Page – Mockup Placeholder
-```
-mohon maaf sebentar pak lagi kelas belum sempat ss 
-```
 
 #### 🗻 Detail Wisata – Mockup Placeholder
-```
-mohon maaf sebentar pak lagi kelas belum sempat ss 
-```
+<img width="825" height="1089" alt="Screenshot 2025-11-05 151322" src="https://github.com/user-attachments/assets/b34bd4a2-63a3-4678-8370-0cefdb275c6b" />
+
 
 #### 🎟️ Tiket & Harga – Mockup Placeholder
-```
-mohon maaf sebentar pak lagi kelas belum sempat ss 
-```
+<img width="825" height="1089" alt="Screenshot 2025-11-05 151352" src="https://github.com/user-attachments/assets/2575bdd1-88f4-4489-815e-1705567cd6c2" />
+
 
 #### 🖼️ Galeri – Mockup Placeholder
-```
-mohon maaf sebentar pak lagi kelas belum sempat ss 
-```
+<img width="825" height="1089" alt="Screenshot 2025-11-05 151406" src="https://github.com/user-attachments/assets/c514f290-285c-4af5-a0f7-19d38cf2bf7f" />
+
 
 #### ℹ️ Tentang Aplikasi – Mockup Placeholder
-```
-mohon maaf sebentar pak lagi kelas belum sempat ss 
-```
+<img width="825" height="1089" alt="Screenshot 2025-11-05 151436" src="https://github.com/user-attachments/assets/b7fee712-049c-4338-a34d-c3b29b8c5afe" />
+
 
 ---
 
